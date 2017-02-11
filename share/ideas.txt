@@ -1,0 +1,40 @@
+Premise:
+-Time is distorted so meters deplete quickly.
+-In 5 minutes if you don't kill your doppelganger the universe will die (from mad paradoxing).
+-Your dimensions have "linked", it's your goddamn fault - FIX IT (with murder)
+
+Juicy:
+-Clocks are spinning.
+
+Room Objects:
+~Kitchen:
+-Oven
+-Fridge
+-Counterspace
+-Wall clock
+-Dish-filled sink
+
+~Living Room
+-Couch/Bed
+-Television
+-Rug
+-Clock
+
+~Lab
+-Explosives Desk
+-"The machine"
+-Wires
+
+~Washroom
+-Sink
+-Toilet
+-Spill
+-Blowdryer
+-Tiled floor
+-Shower drain
+-Shower head
+
+~Exc.
+-Vibration squiggle
+-UI Clock (Goofy?)
+

@@ -23,7 +23,7 @@ public class DangerZone : MonoBehaviour {
     {
         foreach(GameObject g in occupants)
         {
-            g.SendMessage("NotifyDeath",this);
+            g.BroadcastMessage("NotifyDeath",this);
         }
     }
 }

@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Assets\AudioPitchWithTimeScale.cs" />
     <Compile Include="Assets\BulletTime.cs" />
+    <Compile Include="Assets\HumphreyInteract.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
     <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />

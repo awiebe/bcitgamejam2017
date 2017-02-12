@@ -22,12 +22,15 @@ public class Interactable : MonoBehaviour {
         interactables.Remove(this);
     }
 
-    public void OnInteract()
+    public void OnInteract(Object sender)
     {
-        this.target.SendMessage("onInteract", this);
+        Debug.Log(this.gameObject.name + " recieved interact");
+
+        if(this.target)
+        this.target.SendMessage("OnInteract", sender);
     }
 
-    public Interactable GetClosest(Vector2 p)
+    public static Interactable GetClosest(Vector2 p)
     {
         if(Interactable.interactables.Count == 0)
         {

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:project/Assets/NeedBarsModel.cs.meta:project/Assets/NeedBarsModel.cs.meta
+guid: 5268d0025e54645488984ef7faea01bb
+timeCreated: 1486876955
+=======
+guid: d5686467d492def408dac87f9eb89a78
+timeCreated: 1486902940
+>>>>>>> 21dfdf4a7e2e7a96f89f1881103210214c792003:project/Assets/DangerZone.cs.meta:project/Assets/DangerZone.cs.meta
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,6 +11,9 @@ public class HumphreyMove : MonoBehaviour
     public float speedY;
 	// The amount of speed
 	public float jumpForce;
+
+    public bool isPlayerOne;
+
 	// The force of each jump
 	public GameObject poop;
 
@@ -57,8 +60,16 @@ public class HumphreyMove : MonoBehaviour
 
 	void FixedUpdate ()
 	{
-		moveX = Input.GetAxis("Horizontal");
-        moveY = Input.GetAxis("Vertical");
+        if (this.isPlayerOne)
+        {
+            moveX = Input.GetAxis("Horizontal");
+            moveY = Input.GetAxis("Vertical");
+        }
+        else
+        {
+            moveX = Input.GetAxis("HorizontalP2");
+            moveY = Input.GetAxis("VerticalP2");
+        }
 
 		// To the right, to the right
 		if (moveX > 0 && !facingRight)

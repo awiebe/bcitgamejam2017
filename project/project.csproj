@@ -84,6 +84,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AnimateUV.cs" />
     <Compile Include="Assets\AudioPitchWithTimeScale.cs" />
     <Compile Include="Assets\BulletTime.cs" />
     <Compile Include="Assets\HumphreyInteract.cs" />

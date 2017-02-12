@@ -9,6 +9,8 @@ public class HumphreyInteract : MonoBehaviour {
     public bool isPlayerOne = true;
     public GameObject attentionIcon;
 
+    public GameObject deadCrushed;
+
     public bool keyDown = false;
 
 	// Use this for initialization
@@ -87,6 +89,19 @@ public class HumphreyInteract : MonoBehaviour {
         {
             Gizmos.color = Color.red;
             Gizmos.DrawLine(this.transform.position, closest.transform.position);
+        }
+    }
+    void NotifyDeath(DangerZone dangerZone)
+    {
+        this.GetComponent<Collider2D>().enabled = false;
+        this.GetComponent<HumphreyMove>().enabled = false;
+        this.GetComponent<SpriteRenderer>().enabled = false;
+       switch(dangerZone.deathtype)
+        {
+            case DeathType.Crushed:
+                this.deadCrushed.SetActive(true);
+                break;
+
         }
     }
 }

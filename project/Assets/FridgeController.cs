@@ -16,6 +16,8 @@ public class FridgeController : MonoBehaviour {
 
         if (isUp)
         {
+            //Drop the fridge
+            dangerZone.KillOccupants();
             fridgeDown.SetActive(true);
             fridgeUp.SetActive(false);
           

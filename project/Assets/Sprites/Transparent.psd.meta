@@ -1,12 +1,63 @@
 fileFormatVersion: 2
 guid: 74f110685d92129438be97742d6f8338
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: Transparent_0
+    21300002: Transparent_1
+    21300004: Transparent_2
+    21300006: Transparent_3
+    21300008: Transparent_4
+    21300010: Transparent_5
+    21300012: Transparent_6
+    21300014: Transparent_7
+    21300016: Transparent_8
+    21300018: Transparent_9
+    21300020: Transparent_10
+    21300022: Transparent_11
+    21300024: Transparent_12
+    21300026: Transparent_13
+    21300028: Transparent_14
+    21300030: Transparent_15
+    21300032: Transparent_16
+    21300034: Transparent_17
+    21300036: Transparent_18
+    21300038: Transparent_19
+    21300040: Transparent_20
+    21300042: Transparent_21
+    21300044: Transparent_22
+    21300046: Transparent_23
+    21300048: Transparent_24
+    21300050: Transparent_25
+    21300052: Transparent_26
+    21300054: Transparent_27
+    21300056: Transparent_28
+    21300058: Transparent_29
+    21300060: Transparent_30
+    21300062: Transparent_31
+    21300064: Transparent_32
+    21300066: Transparent_33
+    21300068: Transparent_34
+    21300070: Transparent_35
+    21300072: Transparent_36
+    21300074: Transparent_37
+    21300076: Transparent_38
+    21300078: Transparent_39
+    21300080: Transparent_40
+    21300082: Transparent_41
+    21300084: Transparent_42
+    21300086: Transparent_43
+    21300088: Transparent_44
+    21300090: Transparent_45
+    21300092: Transparent_46
+    21300094: Transparent_47
+    21300096: Transparent_48
+    21300098: Transparent_49
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
     mipMapFadeDistanceStart: 1
@@ -14,11 +65,12 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
@@ -34,15 +86,31 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Transparent_0
+    - serializedVersion: 2
+      name: Transparent_0
       rect:
         serializedVersion: 2
         x: 15
@@ -52,7 +120,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_1
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_1
       rect:
         serializedVersion: 2
         x: 24
@@ -62,7 +133,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_2
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_2
       rect:
         serializedVersion: 2
         x: 33
@@ -72,7 +146,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_3
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_3
       rect:
         serializedVersion: 2
         x: 55
@@ -82,7 +159,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_4
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_4
       rect:
         serializedVersion: 2
         x: 106
@@ -92,7 +172,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_5
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_5
       rect:
         serializedVersion: 2
         x: 155
@@ -102,7 +185,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_6
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_6
       rect:
         serializedVersion: 2
         x: 206
@@ -112,7 +198,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_7
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_7
       rect:
         serializedVersion: 2
         x: 258
@@ -122,7 +211,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_8
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_8
       rect:
         serializedVersion: 2
         x: 308
@@ -132,7 +224,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_9
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_9
       rect:
         serializedVersion: 2
         x: 359
@@ -142,7 +237,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_10
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_10
       rect:
         serializedVersion: 2
         x: 408
@@ -152,7 +250,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_11
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_11
       rect:
         serializedVersion: 2
         x: 459
@@ -162,7 +263,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_12
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_12
       rect:
         serializedVersion: 2
         x: 510
@@ -172,7 +276,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_13
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_13
       rect:
         serializedVersion: 2
         x: 11
@@ -182,7 +289,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_14
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_14
       rect:
         serializedVersion: 2
         x: 17
@@ -192,7 +302,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_15
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_15
       rect:
         serializedVersion: 2
         x: 30
@@ -202,7 +315,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_16
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_16
       rect:
         serializedVersion: 2
         x: 36
@@ -212,7 +328,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_17
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_17
       rect:
         serializedVersion: 2
         x: 55
@@ -222,7 +341,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_18
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_18
       rect:
         serializedVersion: 2
         x: 103
@@ -232,7 +354,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_19
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_19
       rect:
         serializedVersion: 2
         x: 151
@@ -242,7 +367,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_20
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_20
       rect:
         serializedVersion: 2
         x: 199
@@ -252,7 +380,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_21
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_21
       rect:
         serializedVersion: 2
         x: 247
@@ -262,7 +393,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_22
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_22
       rect:
         serializedVersion: 2
         x: 295
@@ -272,7 +406,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_23
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_23
       rect:
         serializedVersion: 2
         x: 355
@@ -282,7 +419,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_24
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_24
       rect:
         serializedVersion: 2
         x: 415
@@ -292,7 +432,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_25
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_25
       rect:
         serializedVersion: 2
         x: 466
@@ -302,7 +445,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_26
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_26
       rect:
         serializedVersion: 2
         x: 517
@@ -312,7 +458,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_27
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_27
       rect:
         serializedVersion: 2
         x: 570
@@ -322,7 +471,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_28
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_28
       rect:
         serializedVersion: 2
         x: 623
@@ -332,7 +484,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_29
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_29
       rect:
         serializedVersion: 2
         x: 632
@@ -342,7 +497,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_30
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_30
       rect:
         serializedVersion: 2
         x: 640
@@ -352,7 +510,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_31
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_31
       rect:
         serializedVersion: 2
         x: 650
@@ -362,7 +523,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_32
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_32
       rect:
         serializedVersion: 2
         x: 11
@@ -372,7 +536,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_33
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_33
       rect:
         serializedVersion: 2
         x: 21
@@ -382,7 +549,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_34
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_34
       rect:
         serializedVersion: 2
         x: 27
@@ -392,7 +562,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_35
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_35
       rect:
         serializedVersion: 2
         x: 37
@@ -402,7 +575,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_36
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_36
       rect:
         serializedVersion: 2
         x: 55
@@ -412,7 +588,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_37
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_37
       rect:
         serializedVersion: 2
         x: 528
@@ -422,7 +601,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_38
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_38
       rect:
         serializedVersion: 2
         x: 4
@@ -432,7 +614,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_39
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_39
       rect:
         serializedVersion: 2
         x: 14
@@ -442,7 +627,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_40
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_40
       rect:
         serializedVersion: 2
         x: 20
@@ -452,7 +640,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_41
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_41
       rect:
         serializedVersion: 2
         x: 26
@@ -462,7 +653,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_42
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_42
       rect:
         serializedVersion: 2
         x: 35
@@ -472,7 +666,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_43
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_43
       rect:
         serializedVersion: 2
         x: 43
@@ -482,7 +679,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_44
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_44
       rect:
         serializedVersion: 2
         x: 106
@@ -492,7 +692,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_45
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_45
       rect:
         serializedVersion: 2
         x: 3
@@ -502,7 +705,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_46
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_46
       rect:
         serializedVersion: 2
         x: 13
@@ -512,7 +718,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_47
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_47
       rect:
         serializedVersion: 2
         x: 19
@@ -522,7 +731,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_48
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_48
       rect:
         serializedVersion: 2
         x: 28
@@ -532,7 +744,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Transparent_49
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Transparent_49
       rect:
         serializedVersion: 2
         x: 41
@@ -542,5 +757,10 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

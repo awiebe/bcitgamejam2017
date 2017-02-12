@@ -1,12 +1,83 @@
 fileFormatVersion: 2
 guid: 96524eff34714b54da5cfc68c900daa6
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: DeLorean_Sprites_Sheet_by_Poke_Yoshi_0
+    21300002: DeLorean_Sprites_Sheet_by_Poke_Yoshi_1
+    21300004: DeLorean_Sprites_Sheet_by_Poke_Yoshi_2
+    21300006: DeLorean_Sprites_Sheet_by_Poke_Yoshi_3
+    21300008: DeLorean_Sprites_Sheet_by_Poke_Yoshi_4
+    21300010: DeLorean_Sprites_Sheet_by_Poke_Yoshi_5
+    21300012: DeLorean_Sprites_Sheet_by_Poke_Yoshi_6
+    21300014: DeLorean_Sprites_Sheet_by_Poke_Yoshi_7
+    21300016: DeLorean_Sprites_Sheet_by_Poke_Yoshi_8
+    21300018: DeLorean_Sprites_Sheet_by_Poke_Yoshi_9
+    21300020: DeLorean_Sprites_Sheet_by_Poke_Yoshi_10
+    21300022: DeLorean_Sprites_Sheet_by_Poke_Yoshi_11
+    21300024: DeLorean_Sprites_Sheet_by_Poke_Yoshi_12
+    21300026: DeLorean_Sprites_Sheet_by_Poke_Yoshi_13
+    21300028: DeLorean_Sprites_Sheet_by_Poke_Yoshi_14
+    21300030: DeLorean_Sprites_Sheet_by_Poke_Yoshi_15
+    21300032: DeLorean_Sprites_Sheet_by_Poke_Yoshi_16
+    21300034: DeLorean_Sprites_Sheet_by_Poke_Yoshi_17
+    21300036: DeLorean_Sprites_Sheet_by_Poke_Yoshi_18
+    21300038: DeLorean_Sprites_Sheet_by_Poke_Yoshi_19
+    21300040: DeLorean_Sprites_Sheet_by_Poke_Yoshi_20
+    21300042: DeLorean_Sprites_Sheet_by_Poke_Yoshi_21
+    21300044: DeLorean_Sprites_Sheet_by_Poke_Yoshi_22
+    21300046: DeLorean_Sprites_Sheet_by_Poke_Yoshi_23
+    21300048: DeLorean_Sprites_Sheet_by_Poke_Yoshi_24
+    21300050: DeLorean_Sprites_Sheet_by_Poke_Yoshi_25
+    21300052: DeLorean_Sprites_Sheet_by_Poke_Yoshi_26
+    21300054: DeLorean_Sprites_Sheet_by_Poke_Yoshi_27
+    21300056: DeLorean_Sprites_Sheet_by_Poke_Yoshi_28
+    21300058: DeLorean_Sprites_Sheet_by_Poke_Yoshi_29
+    21300060: DeLorean_Sprites_Sheet_by_Poke_Yoshi_30
+    21300062: DeLorean_Sprites_Sheet_by_Poke_Yoshi_31
+    21300064: DeLorean_Sprites_Sheet_by_Poke_Yoshi_32
+    21300066: DeLorean_Sprites_Sheet_by_Poke_Yoshi_33
+    21300068: DeLorean_Sprites_Sheet_by_Poke_Yoshi_34
+    21300070: DeLorean_Sprites_Sheet_by_Poke_Yoshi_35
+    21300072: DeLorean_Sprites_Sheet_by_Poke_Yoshi_36
+    21300074: DeLorean_Sprites_Sheet_by_Poke_Yoshi_37
+    21300076: DeLorean_Sprites_Sheet_by_Poke_Yoshi_38
+    21300078: DeLorean_Sprites_Sheet_by_Poke_Yoshi_39
+    21300080: DeLorean_Sprites_Sheet_by_Poke_Yoshi_40
+    21300082: DeLorean_Sprites_Sheet_by_Poke_Yoshi_41
+    21300084: DeLorean_Sprites_Sheet_by_Poke_Yoshi_42
+    21300086: DeLorean_Sprites_Sheet_by_Poke_Yoshi_43
+    21300088: DeLorean_Sprites_Sheet_by_Poke_Yoshi_44
+    21300090: DeLorean_Sprites_Sheet_by_Poke_Yoshi_45
+    21300092: DeLorean_Sprites_Sheet_by_Poke_Yoshi_46
+    21300094: DeLorean_Sprites_Sheet_by_Poke_Yoshi_47
+    21300096: DeLorean_Sprites_Sheet_by_Poke_Yoshi_48
+    21300098: DeLorean_Sprites_Sheet_by_Poke_Yoshi_49
+    21300100: DeLorean_Sprites_Sheet_by_Poke_Yoshi_50
+    21300102: DeLorean_Sprites_Sheet_by_Poke_Yoshi_51
+    21300104: DeLorean_Sprites_Sheet_by_Poke_Yoshi_52
+    21300106: DeLorean_Sprites_Sheet_by_Poke_Yoshi_53
+    21300108: DeLorean_Sprites_Sheet_by_Poke_Yoshi_54
+    21300110: DeLorean_Sprites_Sheet_by_Poke_Yoshi_55
+    21300112: DeLorean_Sprites_Sheet_by_Poke_Yoshi_56
+    21300114: DeLorean_Sprites_Sheet_by_Poke_Yoshi_57
+    21300116: DeLorean_Sprites_Sheet_by_Poke_Yoshi_58
+    21300118: DeLorean_Sprites_Sheet_by_Poke_Yoshi_59
+    21300120: DeLorean_Sprites_Sheet_by_Poke_Yoshi_60
+    21300122: DeLorean_Sprites_Sheet_by_Poke_Yoshi_61
+    21300124: DeLorean_Sprites_Sheet_by_Poke_Yoshi_62
+    21300126: DeLorean_Sprites_Sheet_by_Poke_Yoshi_63
+    21300128: DeLorean_Sprites_Sheet_by_Poke_Yoshi_64
+    21300130: DeLorean_Sprites_Sheet_by_Poke_Yoshi_65
+    21300132: DeLorean_Sprites_Sheet_by_Poke_Yoshi_66
+    21300134: DeLorean_Sprites_Sheet_by_Poke_Yoshi_67
+    21300136: DeLorean_Sprites_Sheet_by_Poke_Yoshi_68
+    21300138: DeLorean_Sprites_Sheet_by_Poke_Yoshi_69
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
     mipMapFadeDistanceStart: 1
@@ -14,11 +85,12 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
@@ -34,15 +106,31 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_0
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_0
       rect:
         serializedVersion: 2
         x: 13
@@ -52,7 +140,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_1
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_1
       rect:
         serializedVersion: 2
         x: 89
@@ -62,7 +153,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_2
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_2
       rect:
         serializedVersion: 2
         x: 173
@@ -72,7 +166,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_3
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_3
       rect:
         serializedVersion: 2
         x: 271
@@ -82,7 +179,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_4
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_4
       rect:
         serializedVersion: 2
         x: 10
@@ -92,7 +192,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_5
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_5
       rect:
         serializedVersion: 2
         x: 87
@@ -102,7 +205,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_6
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_6
       rect:
         serializedVersion: 2
         x: 172
@@ -112,7 +218,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_7
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_7
       rect:
         serializedVersion: 2
         x: 10
@@ -122,7 +231,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_8
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_8
       rect:
         serializedVersion: 2
         x: 93
@@ -132,7 +244,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_9
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_9
       rect:
         serializedVersion: 2
         x: 183
@@ -142,7 +257,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_10
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_10
       rect:
         serializedVersion: 2
         x: 340
@@ -152,7 +270,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_11
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_11
       rect:
         serializedVersion: 2
         x: 398
@@ -162,7 +283,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_12
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_12
       rect:
         serializedVersion: 2
         x: 329
@@ -172,7 +296,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_13
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_13
       rect:
         serializedVersion: 2
         x: 10
@@ -182,7 +309,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_14
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_14
       rect:
         serializedVersion: 2
         x: 95
@@ -192,7 +322,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_15
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_15
       rect:
         serializedVersion: 2
         x: 182
@@ -202,7 +335,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_16
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_16
       rect:
         serializedVersion: 2
         x: 349
@@ -212,7 +348,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_17
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_17
       rect:
         serializedVersion: 2
         x: 365
@@ -222,7 +361,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_18
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_18
       rect:
         serializedVersion: 2
         x: 411
@@ -232,7 +374,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_19
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_19
       rect:
         serializedVersion: 2
         x: 9
@@ -242,7 +387,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_20
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_20
       rect:
         serializedVersion: 2
         x: 143
@@ -252,7 +400,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_21
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_21
       rect:
         serializedVersion: 2
         x: 277
@@ -262,7 +413,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_22
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_22
       rect:
         serializedVersion: 2
         x: 7
@@ -272,7 +426,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_23
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_23
       rect:
         serializedVersion: 2
         x: 141
@@ -282,7 +439,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_24
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_24
       rect:
         serializedVersion: 2
         x: 275
@@ -292,7 +452,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_25
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_25
       rect:
         serializedVersion: 2
         x: 14
@@ -302,7 +465,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_26
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_26
       rect:
         serializedVersion: 2
         x: 91
@@ -312,7 +478,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_27
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_27
       rect:
         serializedVersion: 2
         x: 175
@@ -322,7 +491,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_28
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_28
       rect:
         serializedVersion: 2
         x: 330
@@ -332,7 +504,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_29
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_29
       rect:
         serializedVersion: 2
         x: 12
@@ -342,7 +517,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_30
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_30
       rect:
         serializedVersion: 2
         x: 89
@@ -352,7 +530,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_31
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_31
       rect:
         serializedVersion: 2
         x: 174
@@ -362,7 +543,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_32
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_32
       rect:
         serializedVersion: 2
         x: 337
@@ -372,7 +556,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_33
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_33
       rect:
         serializedVersion: 2
         x: 6
@@ -382,7 +569,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_34
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_34
       rect:
         serializedVersion: 2
         x: 144
@@ -392,7 +582,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_35
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_35
       rect:
         serializedVersion: 2
         x: 308
@@ -402,7 +595,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_36
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_36
       rect:
         serializedVersion: 2
         x: 428
@@ -412,7 +608,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_37
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_37
       rect:
         serializedVersion: 2
         x: 451
@@ -422,7 +621,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_38
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_38
       rect:
         serializedVersion: 2
         x: 86
@@ -432,7 +634,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_39
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_39
       rect:
         serializedVersion: 2
         x: 241
@@ -442,7 +647,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_40
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_40
       rect:
         serializedVersion: 2
         x: 266
@@ -452,7 +660,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_41
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_41
       rect:
         serializedVersion: 2
         x: 307
@@ -462,7 +673,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_42
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_42
       rect:
         serializedVersion: 2
         x: 340
@@ -472,7 +686,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_43
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_43
       rect:
         serializedVersion: 2
         x: 347
@@ -482,7 +699,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_44
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_44
       rect:
         serializedVersion: 2
         x: 358
@@ -492,7 +712,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_45
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_45
       rect:
         serializedVersion: 2
         x: 397
@@ -502,7 +725,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_46
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_46
       rect:
         serializedVersion: 2
         x: 241
@@ -512,7 +738,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_47
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_47
       rect:
         serializedVersion: 2
         x: 260
@@ -522,7 +751,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_48
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_48
       rect:
         serializedVersion: 2
         x: 272
@@ -532,7 +764,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_49
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_49
       rect:
         serializedVersion: 2
         x: 314
@@ -542,7 +777,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_50
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_50
       rect:
         serializedVersion: 2
         x: 366
@@ -552,7 +790,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_51
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_51
       rect:
         serializedVersion: 2
         x: 241
@@ -562,7 +803,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_52
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_52
       rect:
         serializedVersion: 2
         x: 269
@@ -572,7 +816,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_53
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_53
       rect:
         serializedVersion: 2
         x: 273
@@ -582,7 +829,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_54
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_54
       rect:
         serializedVersion: 2
         x: 312
@@ -592,7 +842,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_55
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_55
       rect:
         serializedVersion: 2
         x: 346
@@ -602,7 +855,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_56
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_56
       rect:
         serializedVersion: 2
         x: 373
@@ -612,7 +868,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_57
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_57
       rect:
         serializedVersion: 2
         x: 241
@@ -622,7 +881,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_58
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_58
       rect:
         serializedVersion: 2
         x: 249
@@ -632,7 +894,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_59
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_59
       rect:
         serializedVersion: 2
         x: 274
@@ -642,7 +907,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_60
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_60
       rect:
         serializedVersion: 2
         x: 290
@@ -652,7 +920,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_61
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_61
       rect:
         serializedVersion: 2
         x: 316
@@ -662,7 +933,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_62
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_62
       rect:
         serializedVersion: 2
         x: 335
@@ -672,7 +946,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_63
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_63
       rect:
         serializedVersion: 2
         x: 366
@@ -682,7 +959,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_64
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_64
       rect:
         serializedVersion: 2
         x: 395
@@ -692,7 +972,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_65
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_65
       rect:
         serializedVersion: 2
         x: 407
@@ -702,7 +985,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_66
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_66
       rect:
         serializedVersion: 2
         x: 420
@@ -712,7 +998,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_67
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_67
       rect:
         serializedVersion: 2
         x: 449
@@ -722,7 +1011,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_68
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_68
       rect:
         serializedVersion: 2
         x: 382
@@ -732,7 +1024,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_69
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeLorean_Sprites_Sheet_by_Poke_Yoshi_69
       rect:
         serializedVersion: 2
         x: 468
@@ -742,5 +1037,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

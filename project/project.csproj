@@ -89,6 +89,7 @@
     <Compile Include="Assets\BulletTime.cs" />
     <Compile Include="Assets\DangerZone.cs" />
     <Compile Include="Assets\ElectricalArc.cs" />
+    <Compile Include="Assets\FridgeController.cs" />
     <Compile Include="Assets\HumphreyInteract.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\NeedBarsModel.cs" />

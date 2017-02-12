@@ -7,6 +7,7 @@ public class TvController : MonoBehaviour {
     public SpriteRenderer renderer;
     public Sprite offSprite;
     public bool isOn;
+
     void OnInteract(MonoBehaviour sender)
     {
         isOn = !isOn;

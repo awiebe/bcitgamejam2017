@@ -312,7 +312,7 @@ Transform:
   m_LocalScale: {x: 1.3375003, y: 1.5417196, z: 1}
   m_Children: []
   m_Father: {fileID: 818388669}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &81957882
 MonoBehaviour:
@@ -1280,6 +1280,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 818388669}
+  - component: {fileID: 818388670}
   m_Layer: 0
   m_Name: fridge
   m_TagString: Untagged
@@ -1299,11 +1300,26 @@ Transform:
   m_Children:
   - {fileID: 1022553368}
   - {fileID: 1082683476}
-  - {fileID: 1062024110}
   - {fileID: 81957881}
+  - {fileID: 1062024110}
   m_Father: {fileID: 1067414853}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &818388670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 818388668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 864faab5741f63b44804d89942ba7014, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fridgeUp: {fileID: 1082683475}
+  fridgeDown: {fileID: 1022553367}
+  isUp: 1
+  dangerZone: {fileID: 0}
 --- !u!1 &821462940
 GameObject:
   m_ObjectHideFlags: 0
@@ -1752,12 +1768,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1062024109}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.36, y: 0.54, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.3599997, y: 0.53999996, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 818388669}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1062024111
 MonoBehaviour:
@@ -1770,7 +1786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38adf69a15712ae41be9cd45e1f72748, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 818388668}
 --- !u!1 &1067414852
 GameObject:
   m_ObjectHideFlags: 0
@@ -2437,7 +2453,7 @@ Animator:
   m_GameObject: {fileID: 1292264138}
   m_Enabled: 0
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 11d2aac0c7f154941ac6507b464556af, type: 2}
+  m_Controller: {fileID: 9100000, guid: 823f5361691cf204a83b2d6259a5e708, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

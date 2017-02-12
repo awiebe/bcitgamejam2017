@@ -133,6 +133,7 @@
     <Compile Include="Assets\SleepRestoreZone.cs" />
     <Compile Include="Assets\SpritePulser.cs" />
     <Compile Include="Assets\TvController.cs" />
+    <Compile Include="Assets\whoDied.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Audio\ReadMe.txt" />

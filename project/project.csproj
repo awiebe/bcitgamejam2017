@@ -87,6 +87,7 @@
     <Compile Include="Assets\AnimateUV.cs" />
     <Compile Include="Assets\AudioPitchWithTimeScale.cs" />
     <Compile Include="Assets\BulletTime.cs" />
+    <Compile Include="Assets\DangerZone.cs" />
     <Compile Include="Assets\HumphreyInteract.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
@@ -114,6 +115,7 @@
     <Compile Include="Assets\Scripts\HealthPickup.cs" />
     <Compile Include="Assets\Scripts\LayBombs.cs" />
     <Compile Include="Assets\Scripts\MessageOnCollision.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\Pauser.cs" />
     <Compile Include="Assets\Scripts\PickupSpawner.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />

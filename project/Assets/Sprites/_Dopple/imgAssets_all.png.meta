@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 0539fe890d059bc4fa753528f4944ab5
+timeCreated: 1486882401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fridge_fallen
+    21300002: television_off
+    21300004: television_on_one
+    21300006: television_on_two
+    21300008: fridge_standing
+    21300010: unfolded_bed
+    21300012: folded_bed
+    21300014: chicken
+    21300016: floorplan
+    21300018: death_splat
+    21300020: knife
+    21300022: chord
+    21300024: shower_two
+    21300026: humphrey
+    21300028: humphrey_back
+    21300030: death_madness
+    21300032: shower_one
+    21300034: death_starvation
+    21300036: death_fry
+    21300038: death_exhaustion
+    21300040: dryer
+    21300042: soak
+    21300044: imgAssets_all_22
+    21300046: machine
+    21300048: bomb
+    21300050: machine_plug
+    21300052: shock
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fridge_fallen
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1533
+        width: 160
+        height: 259
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: television_off
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1596
+        width: 140
+        height: 172
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: television_on_one
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1599
+        width: 140
+        height: 171
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: television_on_two
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1599
+        width: 139
+        height: 171
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fridge_standing
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1389
+        width: 141
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: unfolded_bed
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1292
+        width: 238
+        height: 152
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: folded_bed
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1277
+        width: 59
+        height: 153
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1095
+        width: 57
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: floorplan
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 230
+        width: 1198
+        height: 1130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_splat
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 818
+        width: 287
+        height: 295
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knife
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1040
+        width: 141
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chord
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 314
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shower_two
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 595
+        width: 241
+        height: 260
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: humphrey
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 595
+        width: 109
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: humphrey_back
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 613
+        width: 110
+        height: 153
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_madness
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 619
+        width: 109
+        height: 151
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shower_one
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 304
+        width: 240
+        height: 260
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_starvation
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 360
+        width: 110
+        height: 152
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_fry
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 359
+        width: 110
+        height: 166
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_exhaustion
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 352
+        width: 110
+        height: 151
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dryer
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 62
+        width: 94
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soak
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 23
+        width: 269
+        height: 172
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imgAssets_all_22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 110
+        width: 172
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: machine
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 4
+        width: 142
+        height: 168
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 45
+        width: 76
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: machine_plug
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 0
+        width: 242
+        height: 240
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shock
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 26
+        width: 56
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

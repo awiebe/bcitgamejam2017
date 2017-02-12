@@ -7,6 +7,7 @@ public class HumphreyInteract : MonoBehaviour {
     public float minimumDistance = 2;
     public Interactable selected = null;
     public bool isPlayerOne = true;
+    public GameObject attentionSymbol;
 
     public bool keyDown = false;
 
@@ -26,6 +27,15 @@ public class HumphreyInteract : MonoBehaviour {
         else
         {
             this.selected = null;
+        }
+
+        if (selected != null)
+        {
+            this.attentionSymbol.SetActive(true);
+        }
+        else
+        {
+            this.attentionSymbol.SetActive(false);
         }
 
         if (this.isPlayerOne)
@@ -80,4 +90,6 @@ public class HumphreyInteract : MonoBehaviour {
             Gizmos.DrawLine(this.transform.position, closest.transform.position);
         }
     }
+
+
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DangerZone : MonoBehaviour {
     public ArrayList occupants = new ArrayList();
-    //public DeathType deathtype = DeathType.Crushed;
+    public DeathType deathtype = DeathType.Crushed;
 	// Use this for initialization
 	void Start () {
 		

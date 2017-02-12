@@ -88,6 +88,7 @@
     <Compile Include="Assets\AudioPitchWithTimeScale.cs" />
     <Compile Include="Assets\BulletTime.cs" />
     <Compile Include="Assets\DangerZone.cs" />
+    <Compile Include="Assets\ElectricalArc.cs" />
     <Compile Include="Assets\HumphreyInteract.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\NeedBarsModel.cs" />
@@ -128,6 +129,7 @@
     <Compile Include="Assets\Scripts\SetParticleSortingLayer.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\messageOnCollisionExit.cs" />
+    <Compile Include="Assets\SleepRestoreZone.cs" />
     <Compile Include="Assets\SpritePulser.cs" />
     <Compile Include="Assets\TvController.cs" />
   </ItemGroup>
@@ -140,7 +142,6 @@
     <None Include="Assets\Scripts\Burningthumb\COPYING(CC-NONCOMMERCIAL-ATTRIBUTION).TXT" />
     <None Include="Assets\Scripts\ReadMe.txt" />
     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-    <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

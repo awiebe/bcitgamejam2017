@@ -90,6 +90,8 @@
     <Compile Include="Assets\DangerZone.cs" />
     <Compile Include="Assets\HumphreyInteract.cs" />
     <Compile Include="Assets\Interactable.cs" />
+    <Compile Include="Assets\NeedBarsModel.cs" />
+    <Compile Include="Assets\NeedSliderController.cs" />
     <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
     <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />
     <Compile Include="Assets\Scripts\Bomb.cs" />
@@ -115,7 +117,6 @@
     <Compile Include="Assets\Scripts\HealthPickup.cs" />
     <Compile Include="Assets\Scripts\LayBombs.cs" />
     <Compile Include="Assets\Scripts\MessageOnCollision.cs" />
-    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\Pauser.cs" />
     <Compile Include="Assets\Scripts\PickupSpawner.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
@@ -128,25 +129,7 @@
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\messageOnCollisionExit.cs" />
     <Compile Include="Assets\SpritePulser.cs" />
-    <Compile Include="Assets\e2d\Generator\e2dCurveMethods.cs" />
-    <Compile Include="Assets\e2d\Generator\e2dMidpoint.cs" />
-    <Compile Include="Assets\e2d\Generator\e2dPerlinNoise.cs" />
-    <Compile Include="Assets\e2d\Generator\e2dPerlinOctave.cs" />
-    <Compile Include="Assets\e2d\Generator\e2dVoronoi.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dMeshObject.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainBoundary.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainColliderMesh.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainCurveMesh.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainDataTypes.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainFillMesh.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainGrassMesh.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTerrainMesh.cs" />
-    <Compile Include="Assets\e2d\Terrain\e2dTriangulator.cs" />
-    <Compile Include="Assets\e2d\Utils\e2dConstants.cs" />
-    <Compile Include="Assets\e2d\Utils\e2dUtils.cs" />
-    <Compile Include="Assets\e2d\doxygen.cs" />
-    <Compile Include="Assets\e2d\e2dTerrain.cs" />
-    <Compile Include="Assets\e2d\e2dTerrainGenerator.cs" />
+    <Compile Include="Assets\TvController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Audio\ReadMe.txt" />
@@ -158,12 +141,6 @@
     <None Include="Assets\Scripts\ReadMe.txt" />
     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
-    <None Include="Assets\e2d\Resources\Curve.shader" />
-    <None Include="Assets\e2d\Resources\CurveNormal.shader" />
-    <None Include="Assets\e2d\Resources\Fill.shader" />
-    <None Include="Assets\e2d\Resources\FillNormal.shader" />
-    <None Include="Assets\e2d\Resources\Grass.shader" />
-    <None Include="Assets\e2d\Resources\GrassNormal.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

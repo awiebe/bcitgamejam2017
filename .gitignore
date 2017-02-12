@@ -1,2 +1,3 @@
 project/Temp
-project/Library
+project/Library/ScriptAssemblies
+project/Library/shader-compiler-UnityShaderCompiler*.log

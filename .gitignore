@@ -1,10 +1,10 @@
  #For Mac developers
  # Unity generated #
  # =============== #
- Temp/
+ project/Temp/
  obj/
  Build
- Library/
+ project/Library/
   
  
      # ===================================== #
